@@ -106,7 +106,11 @@ This project is part of my hands-on learning journey in:
 
 \## Author
 
-\*\*Stephen Oyekale\*\*  
+\*\*Stephen Oyekale\*\*
+
+## GitHub Collaboration Practice
+
+This feature branch is used to practice Pull Requests (PR), branching, and DevOps workflows.
 
 Cloud \& DevOps Learner
 
